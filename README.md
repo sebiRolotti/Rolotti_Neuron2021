@@ -1,11 +1,11 @@
-# Analysis code for Rolotti et al. *Neuron* 2021
+# Analysis code for Rolotti et al. *Neuron* 2022
 
 This repository contains code used to ultimately generate all figures from:
 
 Rolotti S.V., Ahmed, M.S., Szoboszlay M., Geiller T., Negrean A., Blockus H., Gonzalez K.C.,
 Sparks F.T., Solis Canales A.S., Tuttman A.L., Peterka D.S., Zemelman B.V., Polleux F., & Losonczy A.
 Local feedback inhibition tightly controls rapid formation of hippocampal place fields.
-*Neuron* 2021.
+*Neuron* 2022.
 
 ## Overview
 The code contained here includes: 
